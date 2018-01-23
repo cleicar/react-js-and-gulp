@@ -1,0 +1,25 @@
+{
+  "name": "react-and-gulp",
+  "version": "1.0.0",
+  "description": "Just an application to study about React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "gulp",
+    "rails",
+    "ruby"
+  ],
+  "author": "Cleiviane Costa",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-react-easy": "^0.1.9",
+    "gulp-rename": "^1.2.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
